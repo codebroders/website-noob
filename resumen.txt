@@ -1,0 +1,25 @@
+Lista de comandos Linux: 
+
+
+- pwd: Lista el directorio actual de la terminal
+- ls : Lista los archivos y folders del directorio actual 
+- mkdir : Crea carpetas 
+- rm : Eliminar archivos y carpetas 
+- cd : Cambiar de directorio 
+- touch : Crear un  archivo en blanco
+- open : Abrir archivo o carpeta 
+
+HTML : 
+
+- head
+- body 
+- link 
+- strong
+- i 
+
+CSS :
+
+- selector
+- atributo
+- valor
+- regla css 

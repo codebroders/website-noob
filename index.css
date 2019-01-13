@@ -1,0 +1,19 @@
+/*
+CSS: Cascading StyleSheet
+Archivo que define todas las reglas de estilos del website
+
+SELECTOR {
+  ATRIBUTOS: VALORES;
+  ATRIBUTOS: VALORES;
+  ATRIBUTOS: VALORES;
+  ATRIBUTOS: VALORES;
+  ATRIBUTOS: VALORES;
+}
+*/
+
+body {
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+}
+
